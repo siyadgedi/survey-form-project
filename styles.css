@@ -1,0 +1,38 @@
+#top-banner {
+    background-image: url(images/ewscripps.brightspotcdn.com.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5em;
+    margin: -0.5em;
+}
+
+
+#main {
+    background-color: blanchedalmond;
+    
+}
+#title, #description {
+    text-align: center;
+    opacity: 1;
+    color: black;
+    font-family: 'Rubik', sans-serif;
+}
+
+#header {
+    margin-top: 5em;
+}
+
+#survey-form {
+    text-align: center;
+    font-size: larger;
+    font-family: 'Rubik', sans-serif;
+    color: crimson;
+
+}
+
+label {
+    font-size: medium;
+    color: black;
+}
+
+
